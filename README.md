@@ -1,7 +1,5 @@
 # Cyber-Cook-Books
 
-# Cybersecurity Book Collection
-
 This repository contains a curated list of cybersecurity books I've read and found valuable.  The list is organized by category for easier navigation.  I'll try to keep it updated as I read more books.
 
 **Note:**  This is a personal collection and the inclusion of a book doesn't necessarily constitute an endorsement.  The quality and relevance of each book may vary depending on your experience level and specific interests.

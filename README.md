@@ -9,8 +9,3 @@ This repository contains a curated list of cybersecurity books I've read and fou
 ## Contributing
 
 Feel free to open an issue or submit a pull request if you have suggestions for additional books to include, or if you find any errors.  Please include a brief summary of the book and why you recommend it.  This will help others in the community!
-
-
-## License
-
-[Choose a license -  e.g., MIT License](https://opensource.org/licenses/MIT)
